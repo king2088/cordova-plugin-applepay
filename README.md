@@ -194,7 +194,8 @@ properties are:
  * `name`
  * `email`
  * `phone`
-
+## XCode Packaging process
+ * *If If prompted wrong with "This device can make payments but has no supported cards". In XCode, please open apple pay, may be you apple pay is off
 ## Limitations and TODOs
 * *Supported Payment Networks hard coded* (Visa, Mastercard, American Express) - This should be updated to be passed along in the order, but is rarely changed and trivial to alter in code.
 * *Merchant Capabilities hard coded (3DS)* - This should be updated to be passed along in the order, but is rarely changed and trivial to alter in code.
